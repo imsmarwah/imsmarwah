@@ -36,5 +36,5 @@ Currently Learning:
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/sawan-marwah
+- LinkedIn: https://www.linkedin.com/in/sawan-singh-marwah/
 - Email: smarwah1998@gmail.com
