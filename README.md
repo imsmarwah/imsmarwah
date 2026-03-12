@@ -14,8 +14,6 @@
 - Java
 - SQL
 - Python
-
-Currently Learning:
 - Node.js
 - MongoDB
 - Express.js
